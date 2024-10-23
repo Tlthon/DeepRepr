@@ -164,3 +164,6 @@ cython_debug/
 
 # IGNORE Downloaded data
 chest_xray_dataset/chest_xray
+
+# IGNORE picture
+chest_xray_dataset_new_split
